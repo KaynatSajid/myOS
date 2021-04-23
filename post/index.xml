@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://kaynatsajid.github.io/OS/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Apr 2021 23:49:49 +0500</lastBuildDate><atom:link href="https://kaynatsajid.github.io/OS/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cv</title>
+      <link>https://kaynatsajid.github.io/OS/cv/</link>
+      <pubDate>Wed, 21 Apr 2021 23:49:49 +0500</pubDate>
+      
+      <guid>https://kaynatsajid.github.io/OS/cv/</guid>
+      <description>Introduction Hello! My name is Kaynat Sajid. I am 20 year old girl trying to find my purpose in life and fulfill my dreams.
+Education  I am currently a student of Computer Science in National University of Science and Technology(NUST). I have done my matriculation from Fauji Foundation Model School (FFMS). And intermediate from Fauji Foundation College Girls (FFCG).  Interests  I am interested in Graphic designing. I like painting, doodling, and baking.</description>
+    </item>
+    
+    <item>
+      <title>Projectdescription</title>
+      <link>https://kaynatsajid.github.io/OS/projectdescription/</link>
+      <pubDate>Wed, 21 Apr 2021 23:45:19 +0500</pubDate>
+      
+      <guid>https://kaynatsajid.github.io/OS/projectdescription/</guid>
+      <description>This code is similar to the description given in provided video. We are building a 64 bit operating sytem.
+Softwares:  Visual Studio Code Docker Qemu  Description: In order to build a 64 bit operating system, we follow the following steps;
+ Setting up Stack. Switching into 64 bit mode by first check following thing;   Multiboot CPU ID Long Mode  After this we enable padding and setup page tables.</description>
+    </item>
+    
+  </channel>
+</rss>
